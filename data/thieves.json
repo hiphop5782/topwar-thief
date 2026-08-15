@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-15T03:27:11.587Z",
-  "count": 48,
+  "updatedAt": "2026-08-15T03:27:44.287Z",
+  "count": 47,
   "locations": [
     {
       "serverId": 341,
@@ -282,14 +282,6 @@
       "id": 46949,
       "pointType": 133,
       "foundAt": "2026-08-15T03:14:19.222Z"
-    },
-    {
-      "serverId": 2287,
-      "x": 393,
-      "y": 299,
-      "id": 153285,
-      "pointType": 133,
-      "foundAt": "2026-08-15T03:07:25.382Z"
     },
     {
       "serverId": 2622,
