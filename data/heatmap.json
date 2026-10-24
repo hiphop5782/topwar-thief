@@ -1,8 +1,8 @@
 {
   "version" : 1,
-  "updatedAt" : "2026-10-24T05:03:18.595616100Z",
-  "totalEvents" : 663,
-  "coordinateCount" : 662,
+  "updatedAt" : "2026-10-24T05:05:31.547696500Z",
+  "totalEvents" : 666,
+  "coordinateCount" : 665,
   "locations" : [ {
     "x" : 476,
     "y" : 780,
@@ -2650,6 +2650,18 @@
   }, {
     "x" : 420,
     "y" : 200,
+    "count" : 1
+  }, {
+    "x" : 301,
+    "y" : 425,
+    "count" : 1
+  }, {
+    "x" : 57,
+    "y" : 403,
+    "count" : 1
+  }, {
+    "x" : 33,
+    "y" : 603,
     "count" : 1
   } ]
 }
