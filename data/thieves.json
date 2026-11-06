@@ -1,13 +1,6 @@
 {
   "version" : 1,
-  "updatedAt" : "2026-11-06T03:44:32.029521Z",
-  "count" : 1,
-  "locations" : [ {
-    "serverId" : 4501,
-    "x" : 130,
-    "y" : 850,
-    "id" : 435266,
-    "pointType" : 133,
-    "foundAt" : "2026-11-06T03:44:31.875Z"
-  } ]
+  "updatedAt" : "2026-11-06T04:05:05.178698200Z",
+  "count" : 0,
+  "locations" : [ ]
 }
